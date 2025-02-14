@@ -1,27 +1,33 @@
-<h1 align="center">Hi 👋, I'm Aditya Pushpam</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Pushpam</h1>
 <h3 align="center">A Passionate Full Stack Developer specializing in Django and React</h3>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react" alt="React Badge">
-    <img src="https://img.shields.io/badge/Backend-Django-green?logo=django" alt="Django Badge">
-    <img src="https://img.shields.io/badge/Styling-Bootstrap-blueviolet?logo=bootstrap" alt="Bootstrap Badge">
-    <img src="https://img.shields.io/badge/Deployment-Netlify-brightgreen?logo=netlify" alt="Netlify Badge">
-    <img src="https://img.shields.io/badge/Deployment-Render-orange?logo=render" alt="Render Badge">
+    <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white&style=for-the-badge" alt="React Badge">
+    <img src="https://img.shields.io/badge/Backend-Django-green?logo=django&logoColor=white&style=for-the-badge" alt="Django Badge">
+    <img src="https://img.shields.io/badge/Styling-Bootstrap-blueviolet?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap Badge">
+    <img src="https://img.shields.io/badge/Deployment-Netlify-brightgreen?logo=netlify&logoColor=white&style=for-the-badge" alt="Netlify Badge">
+    <img src="https://img.shields.io/badge/Deployment-Render-orange?logo=render&logoColor=white&style=for-the-badge" alt="Render Badge">
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=brightgreen" alt="Profile Views">
+    <img src="https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&color=blue" alt="GitHub Followers">
 </p>
 
 ---
 
 ## 🚀 About Me:
 - 🔭 I’m currently working on **[Blogology](https://blogology.netlify.app)** – a modern blogging platform using Django and React.
+- 🌱 I’m currently learning **React Native** for mobile app development.
 - 👯 I’m looking to collaborate on **open-source Django and React projects**.
 - 💬 Ask me about **Django Rest Framework, JWT Authentication, and Responsive UI Design**.
-- 📫 Reach me at: **[pushpamaditya@gmail.com]**
+- 📫 Reach me at: **[Your Email]**
 
 ---
 
 ## 🌐 Connect with me:
 <p align="center">
-    <a href="www.linkedin.com/in/aditya-pushpam-67109b276" target="_blank">
+    <a href="https://www.linkedin.com/in/aditya-pushpam-67109b276" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
     <a href="https://www.instagram.com/aditya_p_01" target="_blank">
