@@ -13,7 +13,6 @@
 
 ## 🚀 About Me:
 - 🔭 I’m currently working on **[Blogology](https://blogology.netlify.app)** – a modern blogging platform using Django and React.
-- 🌱 I’m currently learning **React Native** for mobile app development.
 - 👯 I’m looking to collaborate on **open-source Django and React projects**.
 - 💬 Ask me about **Django Rest Framework, JWT Authentication, and Responsive UI Design**.
 - 📫 Reach me at: **pushpamaditya@gmail.com**
