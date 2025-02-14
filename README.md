@@ -9,11 +9,6 @@
     <img src="https://img.shields.io/badge/Deployment-Render-orange?logo=render&logoColor=white&style=for-the-badge" alt="Render Badge">
 </p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=brightgreen" alt="Profile Views">
-    <img src="https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&color=blue" alt="GitHub Followers">
-</p>
-
 ---
 
 ## 🚀 About Me:
