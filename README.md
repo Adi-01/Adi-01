@@ -56,6 +56,7 @@
 - Designed a responsive UI with Bootstrap, enhancing mobile accessibility by 80%.
 - Built a RESTful API with Django Rest Framework, reducing backend response time by 40%.
 - Integrated JWT-based authentication with localStorage for secure session management.
+- **Implemented caching mechanisms to accelerate post loading times**, enhancing user experience with faster content delivery.
 
 ---
 
