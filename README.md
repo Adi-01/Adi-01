@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on **open-source Django and React projects**.
 - 💬 Ask me about **Django Rest Framework, JWT Authentication, and Responsive UI Design**.
 - 📫 Reach me at: **pushpamaditya@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1luFq26Xhftb2LfHtaD9cwoV-GMT8FHx0/view) for more details on my experience and skills.
+- 📄 Check out my [Resume](https://drive.google.com/file/d/13L3REqBGxL_FkJEvrNuQsg94bxSMT3R6/view?usp=sharing) for more details on my experience and skills.
 
 
 ---
