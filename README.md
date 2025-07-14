@@ -3,11 +3,21 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white&style=for-the-badge" alt="React Badge">
-    <img src="https://img.shields.io/badge/Backend-Django-green?logo=django&logoColor=white&style=for-the-badge" alt="Django Badge">
-    <img src="https://img.shields.io/badge/Styling-Bootstrap-blueviolet?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap Badge">
-    <img src="https://img.shields.io/badge/Deployment-Netlify-brightgreen?logo=netlify&logoColor=white&style=for-the-badge" alt="Netlify Badge">
-    <img src="https://img.shields.io/badge/Deployment-Render-orange?logo=render&logoColor=white&style=for-the-badge" alt="Render Badge">
+    <img src="https://img.shields.io/badge/Mobile-React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React Native Badge">
+    <img src="https://img.shields.io/badge/Backend-Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django Badge">
+    <img src="https://img.shields.io/badge/API-DRF-ff1709?logo=django&logoColor=white&style=for-the-badge" alt="DRF Badge">
+    <img src="https://img.shields.io/badge/Styling-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS Badge">
+    <img src="https://img.shields.io/badge/Styling-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap Badge">
+    <img src="https://img.shields.io/badge/Payment-Stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge" alt="Stripe Badge">
+    <img src="https://img.shields.io/badge/Auth-Google-white?logo=google&logoColor=red&style=for-the-badge" alt="Google Auth Badge">
+    <img src="https://img.shields.io/badge/Auth-JWT-black?logo=jsonwebtokens&logoColor=white&style=for-the-badge" alt="JWT Badge">
+    <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL Badge">
+    <img src="https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite Badge">
+    <img src="https://img.shields.io/badge/Deployment-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" alt="Netlify Badge">
+    <img src="https://img.shields.io/badge/Deployment-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge" alt="Render Badge">
+    <img src="https://img.shields.io/badge/Backend_as_a_Service-Appwrite-F02E65?logo=appwrite&logoColor=white&style=for-the-badge" alt="Appwrite Badge">
 </p>
+
 
 ---
 
