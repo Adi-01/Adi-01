@@ -12,8 +12,8 @@
 ---
 
 ## 🚀 About Me:
-- 👯 I’m looking to collaborate on **open-source Django and React projects**.
-- 💬 Ask me about **Django Rest Framework, JWT Authentication, and Responsive UI Design**.
+- 👯 I’m looking to collaborate on **open-source Django, React and React-Native projects**.
+- 💬 Ask me about **Django Rest Framework, JWT Authentication, and Responsive UI Design, OAuth, Passwordless Auth**.
 - 📫 Reach me at: **pushpamaditya@gmail.com**
 - 📄 Check out my [Resume](https://drive.google.com/file/d/13L3REqBGxL_FkJEvrNuQsg94bxSMT3R6/view?usp=sharing) for more details on my experience and skills.
 
@@ -32,29 +32,49 @@
 
 ---
 
-## 🚀 Skills:
+## 🚀 Skills
+
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge">
-    <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="DRF Badge">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
-    <img src="https://img.shields.io/badge/Rest_API-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="Rest API Badge">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rest_API-02569B?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/AsyncStorage-9146FF?style=for-the-badge&logo=react&logoColor=white" />
 </p>
+
 
 
 ---
 
-## 🏆 Achievements:
-- Developed **[Blogology](https://blogology.netlify.app)** – a full-stack blogging platform using Django and React.
-- Designed a responsive UI with Bootstrap, enhancing mobile accessibility by 80%.
-- Built a RESTful API with Django Rest Framework, reducing backend response time by 40%.
-- Integrated JWT-based authentication with localStorage for secure session management.
-- **Implemented caching mechanisms to accelerate post loading times**, enhancing user experience with faster content delivery.
+## 🏆 Achievements
+
+- 👕 Built **Flexit** – a mobile clothing e-commerce app (like Myntra) using **Django, DRF, React Native, and Stripe**, featuring:
+  - Variant-based product model (color & size), filters, search, cart, checkout, and address management
+  - Integrated **Stripe PaymentSheet**, **TanStack Query**, and **Expo Router** for seamless UX
+
+- 🏠 Developed **Estora** – a real estate listing app using **React Native (Expo)** and **Appwrite**, with:
+  - Google Authentication, property listing & search, and user profile page
+  - Clean UI and smooth experience tailored for mobile users
+
+- 📝 Created **[Blogology](https://blogology.netlify.app)** – a full-stack blog platform with:
+  - JWT-based auth, Markdown post editor, and RESTful API via **Django + DRF**
+  - Responsive UI using Bootstrap and backend optimized with caching
+
+
 
 ---
 
