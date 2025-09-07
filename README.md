@@ -81,7 +81,12 @@
   - Google Authentication, property listing & search, and user profile page
   - Clean UI and smooth experience tailored for mobile users
 
-- 📝 Created **[Blogology](https://blogology.netlify.app)** – a full-stack blog platform with:
+- 📦 Created **[ByteBox](http://bytebox-mini.netlify.app/)** – a file storage and sharing platform using **Django + DRF**, featuring:
+  - File upload, fetch, trash, restore or delete
+  - Limited storage quota (2GB)
+  - Google OAuth authentication and secure JWT-based session handling
+
+- 📝 Built **[Blogology](https://blogology.netlify.app)** – a full-stack blog platform with:
   - JWT-based auth, Markdown post editor, and RESTful API via **Django + DRF**
   - Responsive UI using Bootstrap and backend optimized with caching
 
@@ -91,6 +96,7 @@
 
 ## 📂 Featured Projects:
 - [Blogology](https://blogology.netlify.app) – Full Stack Blogging Platform
+- [ByteBox mini](https://bytebox-mini.netlify.app) – G-Grive based Platform
 
 ---
 
@@ -106,4 +112,5 @@ If you like my projects, consider giving them a ⭐ and let’s connect!
 ---
 
 ## 🔗 Check out my live projects:
-- [Blogology](https://blogology.netlify.app) – A Modern Blogging Platform 
+- [Blogology](https://blogology.netlify.app) – A Modern Blogging Platform
+- [ByteBox mini](https://bytebox-mini.netlify.app) – G-Grive based Platform
