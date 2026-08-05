@@ -49,7 +49,7 @@ I build scalable full-stack applications with modern web technologies, secure ba
 
 📧 **Email:** pushpamaditya@gmail.com
 
-📄 **Resume:** YOUR_RESUME_LINK
+📄 **Resume:** [MY_RESUME_LINK](https://drive.google.com/file/d/1Q7x7ocUx7QWJF37RKqVMeoffkxeItAk_/view?usp=sharing)
 
 ---
 
