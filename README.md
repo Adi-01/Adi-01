@@ -61,7 +61,7 @@ I architect and deploy scalable full-stack applications with modern web technolo
 
 📧 **Email:** pushpamaditya@gmail.com
 
-📄 **Resume:** [View Resume](https://drive.google.com/file/d/1Q7x7ocUx7QWJF37RKqVMeoffkxeItAk_/view?usp=sharing)
+📄 **Resume:** [View Resume](https://drive.google.com/file/d/1CdAOCKT9GjYncQOoQG2lm_nEF6EzAr5R/view?usp=sharing)
 
 ---
 
