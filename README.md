@@ -10,7 +10,7 @@ I build and ship production full-stack systems with real-time architectures, dis
 
 <p align="center">
   <a href="https://aditya-portfolio-nine-delta.vercel.app/">🌐 <b>Portfolio</b></a> &nbsp;|&nbsp;
-  <a href="https://drive.google.com/file/d/1hXJvW-x-_BAuCZ1BYK54y1MALjh_yiYU/view">📄 <b>Resume</b></a> &nbsp;|&nbsp;
+  <a href="https://drive.google.com/file/d/1odJ6RlBWbndJLdeSx0Cf3fFxE3SKLqvP/view?usp=sharing">📄 <b>Resume</b></a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/aditya-pushpam-22d03m">💼 <b>LinkedIn</b></a> &nbsp;|&nbsp;
   <a href="mailto:pushpamaditya@gmail.com">📫 <b>Email</b></a>
 </p>
