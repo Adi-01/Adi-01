@@ -1,16 +1,16 @@
 # Hi, I'm Aditya Pushpam
 
 <h3 align="center">
-Full-Stack Developer | TypeScript · React · Next.js · Node.js · Express.js · PostgreSQL · Redis · Apache Kafka
+Full-Stack Developer | TypeScript · React · Next.js · Node.js · Express.js · PostgreSQL · Redis
 </h3>
 
 <p align="center">
-I build and ship production full-stack systems with real-time architectures, distributed pipelines, secure authentication, and resilient caching.
+I build and ship full-stack web applications with Next.js, Express.js, PostgreSQL, and Redis — focusing on clean APIs, authentication, caching, and real-time updates.
 </p>
 
 <p align="center">
   <a href="https://aditya-portfolio-nine-delta.vercel.app/">🌐 <b>Portfolio</b></a> &nbsp;|&nbsp;
-  <a href="https://drive.google.com/file/d/1odJ6RlBWbndJLdeSx0Cf3fFxE3SKLqvP/view?usp=sharing">📄 <b>Resume</b></a> &nbsp;|&nbsp;
+  <a href="https://drive.google.com/file/d/1odJ6RlBWbndJLdeSx0Cf3fFxE3SKLqvP/view">📄 <b>Resume</b></a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/aditya-pushpam-22d03m">💼 <b>LinkedIn</b></a> &nbsp;|&nbsp;
   <a href="mailto:pushpamaditya@gmail.com">📫 <b>Email</b></a>
 </p>
@@ -62,13 +62,6 @@ I build and ship production full-stack systems with real-time architectures, dis
 
 ## 🚀 Featured Projects
 
-### [Distributed Webhook Delivery Engine](https://github.com/Adi-01/webhook-engine)
-*Apache Kafka · TypeScript · PostgreSQL · Prisma · SSE*
-- Fault-tolerant event delivery platform using **Apache Kafka** with tiered exponential retry topics (`retry.1s`, `retry.3s`) and an automated **Dead Letter Queue (DLQ)** with replay to eliminate head-of-line blocking.
-- Enforced cryptographic **HMAC-SHA256 signatures** (`whsec_...`) and engineered real-time delivery telemetry using **Server-Sent Events (SSE)**.
-
----
-
 ### [Blogology](https://blogology-v2-frontend.vercel.app/) — Full-Stack Editorial & AI Publishing Platform
 *Next.js · Express · TypeScript · Prisma · PostgreSQL · Redis · Stripe*
 - Architected Next.js Cache Components architecture using Server Components with `"use cache"`, `cacheTag()`, and Server Actions with `updateTag()` for instant read-your-own-writes invalidation; built BlockNote editor with Gemini AI SSE token streaming.
@@ -80,6 +73,21 @@ I build and ship production full-stack systems with real-time architectures, dis
 *Next.js · React · Express · PostgreSQL · Redis · Prisma · TanStack Query*
 - Monthly budgeting platform designed around a Starting Allowance baseline model; real-time multi-device sync via Express SSE and Redis Pub/Sub with entity-scoped cache invalidation and `originClientId` deduplication.
 - Gemini AI companion synthesizing non-judgmental spender archetypes with multi-model fallback chaining; demand-driven Redis proxy with 60s idle disconnect enabling serverless scale-to-zero container deployment.
+
+---
+
+### [ByteBox](https://bytebox-appwrite.vercel.app) — Cloud Storage Platform
+*Next.js · TypeScript · Appwrite · TanStack Query · Tailwind CSS · Zod*
+- Cloud storage platform built with Next.js Server Actions and Appwrite (Auth, Database, Storage) featuring a 2GB workspace, file-type validation, and quota enforcement ([GitHub](https://github.com/Adi-01/bytebox-appwrite)).
+- Implemented email-based sharing, soft-delete Trash recovery (bulk restore/delete), Appwrite Full-Text Search, and optimistic UI updates with TanStack Query.
+
+---
+
+## 🧪 Currently Exploring
+
+### [Webhook Delivery Engine](https://github.com/Adi-01/webhook-engine) *(Learning Project)*
+*Apache Kafka · TypeScript · PostgreSQL · Prisma · SSE*
+- Built to learn **Apache Kafka** fundamentals (topics, partitions, producers/consumers, and retry flows) alongside **HMAC-SHA256** payload signing and **SSE** delivery status streaming.
 
 ---
 
